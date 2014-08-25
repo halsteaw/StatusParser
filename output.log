@@ -1,0 +1,270 @@
+
+Security assessment: Severe Risk
+Computer name: PT\PT-MBSA
+IP address: 172.26.25.19
+Security report name: PT - PT-MBSA (8-15-2014 6-54 PM)
+Scan date: 8/15/2014 6:54 PM
+Scanned with MBSA version: 2.3.2208.0
+Catalog synchronization date: 
+Security update catalog: Microsoft Update
+
+
+  Security Updates Scan Results
+	
+ 	   Issue:  Developer Tools, Runtimes, and Redistributables Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| MS11-025 | Installed | Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243) | Important | 
+
+ 	   Issue:  SQL Server Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| MS06-061 | Installed | MSXML 6.0 RTM Security Update  (925673) | Critical | 
+
+ 	   Issue:  Silverlight Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| 2977218 | Installed | Update for Microsoft Silverlight (KB2977218) |  | 
+
+ 	   Issue:  Windows Security Updates
+	   Score:  Check failed (critical)
+	   Result: 7 security updates are missing. 2 service packs or update rollups are missing.
+
+		Security Updates			
+		
+			| MS14-046 | Missing | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2943357) | Important | 
+			| MS14-047 | Missing | Security Update for Windows 7 for x64-based Systems (KB2978668) | Important | 
+			| MS14-051 | Missing | Cumulative Security Update for Internet Explorer 11 for Windows 7 for x64-based Systems (KB2976627) | Critical | 
+			| MS14-045 | Missing | Security Update for Windows 7 for x64-based Systems (KB2976897) | Important | 
+			| MS14-049 | Missing | Security Update for Windows 7 for x64-based Systems (KB2918614) | Important | 
+			| MS14-046 | Missing | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2937610) | Important | 
+			| MS14-043 | Missing | Security Update for Windows 7 for x64-based Systems (KB2978742) | Critical | 
+
+		Update Rollups and Service Packs
+		
+			| 2981580 | Missing | Update for Windows 7 for x64-based Systems (KB2981580) |  | 
+			| 890830 | Missing | Windows Malicious Software Removal Tool x64 - August 2014 (KB890830) |  | 
+
+		Current Update Compliance
+		
+			| MS12-005 | Installed | Security Update for Windows 7 for x64-based Systems (KB2584146) | Important | 
+			| 2862152 | Installed | Security Update for Windows 7 for x64-based Systems (KB2862152) |  | 
+			| MS13-007 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2736422) | Important | 
+			| MS12-045 | Installed | Security Update for Windows 7 for x64-based Systems (KB2698365) | Critical | 
+			| MS13-052 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 for x64-based Systems (KB2832414) | Critical | 
+			| MS13-081 | Installed | Security Update for Windows 7 for x64-based Systems (KB2876284) | Important | 
+			| MS11-092 | Installed | Security Update for Windows 7 for x64-based Systems (KB2619339) | Critical | 
+			| MS11-075 | Installed | Security Update for Windows 7 for x64-based Systems (KB2564958) | Important | 
+			| MS11-019 | Installed | Security Update for Windows 7 for x64-based Systems (KB2511455) | Critical | 
+			| MS12-054 | Installed | Security Update for Windows 7 for x64-based Systems (KB2712808) | Moderate | 
+			| 2973351 | Installed | Security Update for Windows 7 for x64-based Systems (KB2973351) |  | 
+			| MS13-099 | Installed | Security Update for Windows 7 for x64-based Systems (KB2892074) | Critical | 
+			| MS14-037 | Installed | Cumulative Security Update for Internet Explorer 11 for Windows 7 for x64-based Systems (KB2962872) | Critical | 
+			| MS13-081 | Installed | Security Update for Windows 7 for x64-based Systems (KB2855844) | Critical | 
+			| 2813430 | Installed | Security Update for Windows 7 for x64-based Systems (KB2813430) |  | 
+			| MS12-013 | Installed | Security Update for Windows 7 for x64-based Systems (KB2654428) | Critical | 
+			| MS11-037 | Installed | Security Update for Windows 7 for x64-based Systems (KB2544893) | Important | 
+			| MS11-024 | Installed | Security Update for Windows 7 for x64-based Systems (KB2491683) | Important | 
+			| MS14-019 | Installed | Security Update for Windows 7 for x64-based Systems (KB2922229) | Important | 
+			| MS12-054 | Installed | Security Update for Windows 7 for x64-based Systems (KB2705219) | Moderate | 
+			| MS13-082 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 for x64-based Systems (KB2861191) | Critical | 
+			| MS12-024 | Installed | Security Update for Windows 7 for x64-based Systems (KB2653956) | Critical | 
+			| MS11-053 | Installed | Security Update for Windows 7 for x64-based Systems (KB2532531) | Critical | 
+			| MS13-089 | Installed | Security Update for Windows 7 for x64-based Systems (KB2876331) | Critical | 
+			| MS13-050 | Installed | Security Update for Windows 7 for x64-based Systems (KB2839894) | Important | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 4.5 and 4.5.1 on Windows 7, Vista, Server 2008, Server 2008 R2 x64 (KB2931368) | Important | 
+			| MS14-036 | Installed | Security Update for Windows 7 for x64-based Systems (KB2957503) | Critical | 
+			| MS13-082 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2861698) | Important | 
+			| MS12-072 | Installed | Security Update for Windows 7 for x64-based Systems (KB2727528) | Critical | 
+			| MS13-082 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2863240) | Important | 
+			| MS12-020 | Installed | Security Update for Windows 7 for x64-based Systems (KB2621440) | Critical | 
+			| MS12-069 | Installed | Security Update for Windows 7 for x64-based Systems (KB2743555) | Important | 
+			| MS12-033 | Installed | Security Update for Windows 7 for x64-based Systems (KB2690533) | Important | 
+			| MS13-004 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2742599) | Important | 
+			| MS12-074 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2729452) | Critical | 
+			| MS12-036 | Installed | Security Update for Windows 7 for x64-based Systems (KB2685939) | Critical | 
+			| MS11-076 | Installed | Security Update for Windows 7 for x64-based Systems (KB2579686) | Important | 
+			| 2861855 | Installed | Security Update for Windows 7 for x64-based Systems (KB2861855) |  | 
+			| MS14-009 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2911501) | Important | 
+			| MS11-048 | Installed | Security Update for Windows 7 for x64-based Systems (KB2536275) | Important | 
+			| MS14-007 | Installed | Security Update for Windows 7 for x64-based Systems (KB2912390) | Critical | 
+			| MS12-035 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2604115) | Critical | 
+			| 976932 | Installed | Windows 7 Service Pack 1 for x64-based Systems (KB976932) |  | 
+			| 2871997 | Installed | Security Update for Windows 7 for x64-based Systems (KB2871997) |  | 
+			| MS13-006 | Installed | Security Update for Windows 7 for x64-based Systems (KB2785220) | Important | 
+			| 2862973 | Installed | Security Update for Windows 7 for x64-based Systems (KB2862973) |  | 
+			| MS12-082 | Installed | Security Update for Windows 7 for x64-based Systems (KB2770660) | Important | 
+			| MS12-081 | Installed | Security Update for Windows 7 for x64-based Systems (KB2758857) | Critical | 
+			| MS11-030 | Installed | Security Update for Windows 7 for x64-based Systems (KB2509553) | Critical | 
+			| MS13-081 | Installed | Security Update for Windows 7 for x64-based Systems (KB2862335) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 7 for x64-based Systems (KB2868038) | Important | 
+			| MS13-062 | Installed | Security Update for Windows 7 for x64-based Systems (KB2849470) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 7 for x64-based Systems (KB2864202) | Important | 
+			| MS14-009 | Installed | Security Update for Microsoft .NET Framework 4.5.1 on Windows 7, Vista, Server 2008, and Server 2008 R2 for x64 (KB2901126) | Important | 
+			| MS14-040 | Installed | Security Update for Windows 7 for x64-based Systems (KB2961072) | Important | 
+			| MS12-049 | Installed | Security Update for Windows 7 for x64-based Systems (KB2655992) | Important | 
+			| MS12-020 | Installed | Security Update for Windows 7 for x64-based Systems (KB2667402) | Critical | 
+			| MS13-027 | Installed | Security Update for Windows 7 for x64-based Systems (KB2807986) | Important | 
+			| MS13-057 | Installed | Security Update for Windows 7 for x64-based Systems (KB2803821) | Critical | 
+			| MS13-077 | Installed | Security Update for Windows 7 for x64-based Systems (KB2872339) | Important | 
+			| MS14-041 | Installed | Security Update for Windows 7 for x64-based Systems (KB2972280) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 7 for x64-based Systems (KB2862330) | Important | 
+			| 890830 | Installed | Windows Malicious Software Removal Tool x64 - July 2014 (KB890830) |  | 
+			| MS11-024 | Installed | Security Update for Windows 7 for x64-based Systems (KB2506212) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 7 for x64-based Systems (KB2847311) | Critical | 
+			| MS13-058 | Installed | Security Update for Windows 7 for x64-based Systems (KB2847927) | Important | 
+			| MS11-031 | Installed | Security Update for Windows 7 for x64-based Systems (KB2510531) | Critical | 
+			| MS14-030 | Installed | Security Update for Windows 7 for x64-based Systems (KB2965788) | Important | 
+			| MS12-034 | Installed | Security Update for Windows 7 for x64-based Systems (KB2676562) | Critical | 
+			| MS14-039 | Installed | Security Update for Windows 7 for x64-based Systems (KB2973201) | Important | 
+			| MS13-101 | Installed | Security Update for Windows 7 for x64-based Systems (KB2887069) | Important | 
+			| MS13-090 | Installed | Cumulative Security Update for ActiveX Killbits for Windows 7 for x64-based Systems (KB2900986) | Critical | 
+			| MS11-071 | Installed | Security Update for Windows 7 for x64-based Systems (KB2570947) | Important | 
+			| MS14-009 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2898857) | Important | 
+			| MS13-052 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2844286) | Important | 
+			| MS14-033 | Installed | Security Update for Windows 7 for x64-based Systems (KB2939576) | Important | 
+			| MS14-009 | Installed | Security Update for Microsoft .NET Framework 4.5.1 on Windows 7, Vista, Server 2008, and Server 2008 R2 for x64 (KB2898869) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 7 for x64-based Systems (KB2884256) | Important | 
+			| 2904266 | Installed | Update for Windows 7 for x64-based Systems (KB2904266) |  | 
+			| MS14-031 | Installed | Security Update for Windows 7 for x64-based Systems (KB2957189) | Important | 
+			| MS13-098 | Installed | Security Update for Windows 7 for x64-based Systems (KB2893294) | Critical | 
+			| MS13-095 | Installed | Security Update for Windows 7 for x64-based Systems (KB2868626) | Important | 
+			| MS13-036 | Installed | Security Update for Windows 7 for x64-based Systems (KB2840149) | Moderate | 
+			| MS14-018 | Installed | Cumulative Security Update for Internet Explorer 11 for Windows 7 for x64-based Systems (KB2929437) | Critical | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2931356) | Important | 
+			| MS12-006 | Installed | Security Update for Windows 7 for x64-based Systems (KB2585542) | Important | 
+			| MS14-036 | Installed | Security Update for Windows 7 for x64-based Systems (KB2957509) | Critical | 
+			| MS11-043 | Installed | Security Update for Windows 7 for x64-based Systems (KB2536276) | Critical | 
+			| MS14-038 | Installed | Security Update for Windows 7 for x64-based Systems (KB2971850) | Critical | 
+			| MS12-004 | Installed | Security Update for Windows 7 for x64-based Systems (KB2631813) | Important | 
+			| MS13-052 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2840631) | Important | 
+			| MS11-015 | Installed | Security Update for Windows 7 for x64-based Systems (KB2479943) | Critical | 
+			| 2841134 | Installed | Internet Explorer 11 for Windows 7 for x64-based Systems |  | 
+			| 2862966 | Installed | Security Update for Windows 7 for x64-based Systems (KB2862966) |  | 
+			| MS14-027 | Installed | Security Update for Windows 7 for x64-based Systems (KB2926765) | Important | 
+			| MS13-029 | Installed | Security Update for Windows 7 for x64-based Systems (KB2813347) | Critical | 
+			| MS11-085 | Installed | Security Update for Windows 7 for x64-based Systems (KB2620704) | Low | 
+			| MS13-004 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2756921) | Important | 
+			| MS13-083 | Installed | Security Update for Windows 7 for x64-based Systems (KB2864058) | Critical | 
+			| MS11-059 | Installed | Security Update for Windows 7 for x64-based Systems (KB2560656) | Important | 
+			| MS13-015 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2789645) | Important | 
+			| MS11-100 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 and Windows Server 2008 R2 SP1 for x64-based Systems (KB2656356) | Critical | 
+
+
+  Operating System Scan Results 
+	
+    Administrative Vulnerabilities
+		
+	   Issue:  Local Account Password Test
+	   Score:  Check passed
+	   Result: Some user accounts (1 of 3) have blank or simple passwords, or could not be analyzed.
+	   Detail:
+			| User | Weak Password | Locked Out | Disabled | 
+			| Guest | Weak | - | Disabled | 
+			| Administrator | - | - | - | 
+			| admin | - | - | - | 
+
+	   Issue:  File System
+	   Score:  Check passed
+	   Result: All hard drives (1) are using the NTFS file system.
+	   Detail:
+			| Drive Letter | File System | 
+			| C: | NTFS | 
+
+	   Issue:  Password Expiration
+	   Score:  Check failed (non-critical)
+	   Result: All user accounts (3) have non-expiring passwords.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| Guest | 
+			| admin | 
+
+	   Issue:  Guest Account
+	   Score:  Check passed
+	   Result: The Guest account is disabled on this computer.
+
+	   Issue:  Autologon
+	   Score:  Check passed
+	   Result: Autologon is not configured on this computer.
+
+	   Issue:  Restrict Anonymous
+	   Score:  Check passed
+	   Result: Computer is properly restricting anonymous access.
+
+	   Issue:  Administrators
+	   Score:  Check failed (non-critical)
+	   Result: More than 2 Administrators were found on this computer.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| PT\WIN-JBMLDP185VB$ | 
+			| S-1-5-21-2285499549-3295048085-4284075657-1129 | 
+			| admin | 
+
+	   Issue:  Windows Firewall
+	   Score:  Best practice
+	   Result: Windows Firewall is managed through Group Policy on this computer. Windows Firewall is enabled and has exceptions configured. Windows Firewall is enabled on all network connections.
+	   Detail:
+			| Connection Name | Firewall | Exceptions | 
+			| All Connections | On | Services | 
+			| Local Area Connection 2 | On | Services* | 
+
+	   Issue:  Automatic Updates
+	   Score:  Check failed (non-critical)
+	   Result: Updates are automatically downloaded, but not automatically installed on this computer.
+
+	   Issue:  Incomplete Updates
+	   Score:  Best practice
+	   Result: No incomplete software update installations were found.
+
+	Additional System Information
+		
+	   Issue:  Windows Version
+	   Score:  Best practice
+	   Result: Computer is running Microsoft Windows 7.
+
+	   Issue:  Auditing
+	   Score:  Best practice
+	   Result: Neither Logon Success nor Logon Failure auditing are enabled. Enable auditing and turn on auditing for specific events such as logon and logoff. Be sure to monitor your event log to watch for unauthorized access.
+
+	   Issue:  Shares
+	   Score:  Best practice
+	   Result: 2 share(s) are present on your computer. 
+	   Detail:
+			| Share | Directory | Share ACL | Directory ACL | 
+			| ADMIN$ | C:\Windows | Admin Share | NT SERVICE\TrustedInstaller -  F, NT AUTHORITY\SYSTEM -  RWXD, BUILTIN\Administrators -  RWXD, BUILTIN\Users -  RX | 
+			| C$ | C:\ | Admin Share | BUILTIN\Administrators -  F, NT AUTHORITY\SYSTEM -  F, BUILTIN\Users -  RX, NT AUTHORITY\Authenticated Users -  D | 
+
+	   Issue:  Services
+	   Score:  Best practice
+	   Result: No potentially unnecessary services were found.
+
+
+  Internet Information Services (IIS) Scan Results
+	IIS is not running on this computer.
+
+  SQL Server Scan Results
+	SQL Server and/or MSDE is not installed on this computer.
+
+  Desktop Application Scan Results
+	
+	Administrative Vulnerabilities
+		
+	   Issue:  IE Zones
+	   Score:  Check passed
+	   Result: Internet Explorer zones have secure settings for all users.
+
+	   Issue:  Macro Security
+	   Score:  Check not performed
+	   Result: No supported Microsoft Office products are installed.
+
