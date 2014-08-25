@@ -1,0 +1,1090 @@
+
+Security assessment: Potential Risk
+Computer name: PT\PT1WIN7SP132
+IP address: 172.26.24.174
+Security report name: PT - PT1WIN7SP132 (8-25-2014 2-18 PM)
+WSUS server: HTTP://WIN-JBMLDP185VB.PT.TENABLESECURITY.COM:8530
+Scan date: 8/25/2014 2:18 PM
+Scanned with MBSA version: 2.3.2208.0
+Catalog synchronization date: 
+Security update catalog: Microsoft Update, Windows Server Update Services
+
+
+  Security Updates Scan Results
+	
+ 	   Issue:  Developer Tools, Runtimes, and Redistributables Security Updates
+	   Score:  Not approved
+	   Result: 1 security updates are missing and not approved.
+
+		Security Updates			
+		
+			| MS11-025 | Not Approved | Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243) | Important | 
+
+		Current Update Compliance
+		
+			| MS11-025 | Installed | Security Update for Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package (KB2538242) | Important | 
+
+ 	   Issue:  SQL Server Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| MS06-061 | Installed | MSXML 6.0 RTM Security Update  (925673) | Critical | 
+
+ 	   Issue:  Silverlight Security Updates
+	   Score:  Not approved
+	   Result: 1 security updates are missing and not approved.
+
+		Update Rollups and Service Packs
+		
+			| 2977218 | Not Approved | Update for Microsoft Silverlight (KB2977218) |  | 
+
+		Current Update Compliance
+		
+			| MS14-014 | Installed | Security Update for Microsoft Silverlight (KB2932677) | Important | 
+
+ 	   Issue:  Windows Security Updates
+	   Score:  Not approved
+	   Result: 2 security updates are missing and not approved.
+
+		Update Rollups and Service Packs
+		
+			| 2981580 | Not Approved | Update for Windows 7 (KB2981580) |  | 
+			| 890830 | Not Approved | Windows Malicious Software Removal Tool - August 2014 (KB890830) |  | 
+
+		Current Update Compliance
+		
+			| 2973351 | Installed | Security Update for Windows 7 (KB2973351) |  | 
+			| 2861855 | Installed | Security Update for Windows 7 (KB2861855) |  | 
+			| MS14-030 | Installed | Security Update for Windows 7 (KB2965788) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 7 (KB2862330) | Important | 
+			| MS14-007 | Installed | Security Update for Windows 7 (KB2912390) | Critical | 
+			| MS13-081 | Installed | Security Update for Windows 7 (KB2864202) | Important | 
+			| MS14-036 | Installed | Security Update for Windows 7 (KB2957509) | Critical | 
+			| 2841134 | Installed | Internet Explorer 11 for Windows 7 |  | 
+			| MS11-019 | Installed | Security Update for Windows 7 (KB2511455) | Critical | 
+			| MS13-058 | Installed | Security Update for Windows 7 (KB2847927) | Important | 
+			| MS14-046 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2937610) | Important | 
+			| MS11-024 | Installed | Security Update for Windows 7 (KB2506212) | Important | 
+			| MS14-019 | Installed | Security Update for Windows 7 (KB2922229) | Important | 
+			| MS13-007 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2736422) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 7 (KB2868038) | Important | 
+			| MS13-095 | Installed | Security Update for Windows 7 (KB2868626) | Important | 
+			| MS14-009 | Installed | Security Update for Microsoft .NET Framework 4.5.1 on Windows 7, Windows Vista, and Windows Server 2008 x86 (KB2901126) | Important | 
+			| MS14-027 | Installed | Security Update for Windows 7 (KB2926765) | Important | 
+			| MS13-082 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2861698) | Important | 
+			| MS13-090 | Installed | Cumulative Security Update for ActiveX Killbits for Windows 7 (KB2900986) | Critical | 
+			| MS12-054 | Installed | Security Update for Windows 7 (KB2712808) | Moderate | 
+			| 2862152 | Installed | Security Update for Windows 7 (KB2862152) |  | 
+			| MS12-072 | Installed | Security Update for Windows 7 (KB2727528) | Critical | 
+			| MS12-033 | Installed | Security Update for Windows 7 (KB2690533) | Important | 
+			| MS12-013 | Installed | Security Update for Windows 7 (KB2654428) | Critical | 
+			| MS12-020 | Installed | Security Update for Windows 7 (KB2667402) | Critical | 
+			| MS13-089 | Installed | Security Update for Windows 7 (KB2876331) | Critical | 
+			| MS11-059 | Installed | Security Update for Windows 7 (KB2560656) | Important | 
+			| MS12-006 | Installed | Security Update for Windows 7 (KB2585542) | Important | 
+			| MS13-006 | Installed | Security Update for Windows 7 (KB2785220) | Important | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2931356) | Important | 
+			| 890830 | Installed | Windows Malicious Software Removal Tool - July 2014 (KB890830) |  | 
+			| MS13-004 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2742599) | Important | 
+			| MS14-040 | Installed | Security Update for Windows 7 (KB2961072) | Important | 
+			| MS12-024 | Installed | Security Update for Windows 7 (KB2653956) | Critical | 
+			| MS14-046 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2943357) | Important | 
+			| MS14-018 | Installed | Cumulative Security Update for Internet Explorer 11 for Windows 7 (KB2929437) | Critical | 
+			| MS14-009 | Installed | Security Update for Microsoft .NET Framework 4.5.1 on Windows 7, Windows Vista and Windows Server 2008 x86 (KB2898869) | Important | 
+			| MS14-031 | Installed | Security Update for Windows 7 (KB2957189) | Important | 
+			| MS14-041 | Installed | Security Update for Windows 7 (KB2972280) | Important | 
+			| MS14-049 | Installed | Security Update for Windows 7 (KB2918614) | Important | 
+			| MS13-052 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2840631) | Important | 
+			| MS11-071 | Installed | Security Update for Windows 7 (KB2570947) | Important | 
+			| MS12-069 | Installed | Security Update for Windows 7 (KB2743555) | Important | 
+			| MS11-100 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2656356) | Critical | 
+			| MS12-004 | Installed | Security Update for Windows 7 (KB2631813) | Important | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 4.5 and 4.5.1 on Windows 7, Windows Vista and Windows Server 2008 x86 (KB2931368) | Important | 
+			| MS13-101 | Installed | Security Update for Windows 7 (KB2887069) | Important | 
+			| MS11-015 | Installed | Security Update for Windows 7 (KB2479943) | Critical | 
+			| MS13-057 | Installed | Security Update for Windows 7 (KB2803821) | Critical | 
+			| MS12-020 | Installed | Security Update for Windows 7 (KB2621440) | Critical | 
+			| MS14-009 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2911501) | Important | 
+			| MS12-054 | Installed | Security Update for Windows 7 (KB2705219) | Moderate | 
+			| MS11-092 | Installed | Security Update for Windows 7 (KB2619339) | Critical | 
+			| MS14-039 | Installed | Security Update for Windows 7 (KB2973201) | Important | 
+			| MS11-024 | Installed | Security Update for Windows 7 (KB2491683) | Important | 
+			| MS12-034 | Installed | Security Update for Windows 7 (KB2676562) | Critical | 
+			| MS12-045 | Installed | Security Update for Windows 7 (KB2698365) | Critical | 
+			| MS12-005 | Installed | Security Update for Windows 7 (KB2584146) | Important | 
+			| MS14-011 | Installed | Security Update for Windows 7 (KB2909210) | Critical | 
+			| 2813430 | Installed | Security Update for Windows 7 (KB2813430) |  | 
+			| MS13-081 | Installed | Security Update for Windows 7 (KB2847311) | Critical | 
+			| MS11-037 | Installed | Security Update for Windows 7 (KB2544893) | Important | 
+			| MS13-050 | Installed | Security Update for Windows 7 (KB2839894) | Important | 
+			| MS13-029 | Installed | Security Update for Windows 7 (KB2813347) | Critical | 
+			| MS13-082 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2861191) | Critical | 
+			| 2904266 | Installed | Update for Windows 7 (KB2904266) |  | 
+			| MS11-075 | Installed | Security Update for Windows 7 (KB2564958) | Important | 
+			| MS11-043 | Installed | Security Update for Windows 7 (KB2536276) | Critical | 
+			| MS12-049 | Installed | Security Update for Windows 7 (KB2655992) | Important | 
+			| MS11-053 | Installed | Security Update for Windows 7 (KB2532531) | Critical | 
+			| MS12-036 | Installed | Security Update for Windows 7 (KB2685939) | Critical | 
+			| MS13-063 | Installed | Security Update for Windows 7 (KB2859537) | Important | 
+			| MS11-076 | Installed | Security Update for Windows 7 (KB2579686) | Important | 
+			| MS14-038 | Installed | Security Update for Windows 7 (KB2971850) | Critical | 
+			| MS14-033 | Installed | Security Update for Windows 7 (KB2939576) | Important | 
+			| MS13-099 | Installed | Security Update for Windows 7 (KB2892074) | Critical | 
+			| 2871997 | Installed | Security Update for Windows 7 (KB2871997) |  | 
+			| MS14-051 | Installed | Cumulative Security Update for Internet Explorer 11 for Windows 7 (KB2976627) | Critical | 
+			| MS14-045 | Installed | Security Update for Windows 7 (KB2976897) | Important | 
+			| MS13-098 | Installed | Security Update for Windows 7 (KB2893294) | Critical | 
+			| MS13-081 | Installed | Security Update for Windows 7 (KB2884256) | Important | 
+			| MS11-085 | Installed | Security Update for Windows 7 (KB2620704) | Low | 
+			| 976932 | Installed | Windows 7 Service Pack 1 (KB976932) |  | 
+			| MS11-030 | Installed | Security Update for Windows 7 (KB2509553) | Critical | 
+			| 2862973 | Installed | Security Update for Windows 7 (KB2862973) |  | 
+			| MS13-081 | Installed | Security Update for Windows 7 (KB2855844) | Critical | 
+			| MS14-047 | Installed | Security Update for Windows 7 (KB2978668) | Important | 
+			| MS12-035 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2604115) | Critical | 
+			| MS11-031 | Installed | Security Update for Windows 7 (KB2510531) | Critical | 
+			| MS13-052 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2832414) | Critical | 
+			| MS14-043 | Installed | Security Update for Windows 7 (KB2978742) | Critical | 
+			| MS12-082 | Installed | Security Update for Windows 7 (KB2770660) | Important | 
+			| MS12-081 | Installed | Security Update for Windows 7 (KB2758857) | Critical | 
+			| MS12-001 | Installed | Security Update for Windows 7 (KB2644615) | Important | 
+			| MS13-027 | Installed | Security Update for Windows 7 (KB2807986) | Important | 
+			| MS11-046 | Installed | Security Update for Windows 7 (KB2503665) | Important | 
+			| MS11-048 | Installed | Security Update for Windows 7 (KB2536275) | Important | 
+			| MS14-036 | Installed | Security Update for Windows 7 (KB2957503) | Critical | 
+			| MS13-015 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2789645) | Important | 
+			| MS12-074 | Installed | Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 SP1 x86 (KB2729452) | Critical | 
+			| 2862966 | Installed | Security Update for Windows 7 (KB2862966) |  | 
+			| MS13-036 | Installed | Security Update for Windows 7 (KB2840149) | Moderate | 
+			| MS13-081 | Installed | Security Update for Windows 7 (KB2862335) | Important | 
+			| MS13-083 | Installed | Security Update for Windows 7 (KB2864058) |  | 
+
+
+  Operating System Scan Results 
+	
+    Administrative Vulnerabilities
+		
+	   Issue:  Local Account Password Test
+	   Score:  Check passed
+	   Result: Some user accounts (1 of 3) have blank or simple passwords, or could not be analyzed.
+	   Detail:
+			| User | Weak Password | Locked Out | Disabled | 
+			| Guest | Weak | - | Disabled | 
+			| Administrator | - | - | - | 
+			| admin | - | - | - | 
+
+	   Issue:  File System
+	   Score:  Check passed
+	   Result: All hard drives (1) are using the NTFS file system.
+	   Detail:
+			| Drive Letter | File System | 
+			| C: | NTFS | 
+
+	   Issue:  Password Expiration
+	   Score:  Check failed (non-critical)
+	   Result: All user accounts (3) have non-expiring passwords.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| Guest | 
+			| admin | 
+
+	   Issue:  Guest Account
+	   Score:  Check passed
+	   Result: The Guest account is disabled on this computer.
+
+	   Issue:  Autologon
+	   Score:  Check passed
+	   Result: Autologon is not configured on this computer.
+
+	   Issue:  Restrict Anonymous
+	   Score:  Check passed
+	   Result: Computer is properly restricting anonymous access.
+
+	   Issue:  Administrators
+	   Score:  Check failed (non-critical)
+	   Result: More than 2 Administrators were found on this computer.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| PT\WIN-JBMLDP185VB$ | 
+			| admin | 
+
+	   Issue:  Windows Firewall
+	   Score:  Best practice
+	   Result: This check was skipped because it cannot be done remotely.
+
+	   Issue:  Automatic Updates
+	   Score:  Check failed (non-critical)
+	   Result: Updates are not automatically downloaded or installed on this computer.
+
+	   Issue:  Incomplete Updates
+	   Score:  Best practice
+	   Result: No incomplete software update installations were found.
+
+	Additional System Information
+		
+	   Issue:  Windows Version
+	   Score:  Best practice
+	   Result: Computer is running Microsoft Windows 7.
+
+	   Issue:  Auditing
+	   Score:  Best practice
+	   Result: Neither Logon Success nor Logon Failure auditing are enabled. Enable auditing and turn on auditing for specific events such as logon and logoff. Be sure to monitor your event log to watch for unauthorized access.
+
+	   Issue:  Shares
+	   Score:  Best practice
+	   Result: 2 share(s) are present on your computer. 
+	   Detail:
+			| Share | Directory | Share ACL | Directory ACL | 
+			| ADMIN$ | C:\Windows | Admin Share | NT SERVICE\TrustedInstaller -  F, NT AUTHORITY\SYSTEM -  RWXD, BUILTIN\Administrators -  RWXD, BUILTIN\Users -  RX | 
+			| C$ | C:\ | Admin Share | BUILTIN\Administrators -  F, NT AUTHORITY\SYSTEM -  F, BUILTIN\Users -  RX, NT AUTHORITY\Authenticated Users -  D | 
+
+	   Issue:  Services
+	   Score:  Best practice
+	   Result: No potentially unnecessary services were found.
+
+
+  Internet Information Services (IIS) Scan Results
+	IIS is not running on this computer.
+
+  SQL Server Scan Results
+	SQL Server and/or MSDE is not installed on this computer.
+
+  Desktop Application Scan Results
+	
+	Administrative Vulnerabilities
+		
+	   Issue:  IE Zones
+	   Score:  Check passed
+	   Result: Internet Explorer zones have secure settings for all users.
+
+	   Issue:  Macro Security
+	   Score:  Check not performed
+	   Result: No supported Microsoft Office products are installed.
+
+
+
+Computer Name,  IP Address,  Assessment,  Report Name
+-----------------------------------------------------
+
+Security assessment: Potential Risk
+Computer name: PT\PT1WIN832BIT
+IP address: 172.26.25.214
+Security report name: PT - PT1WIN832BIT (8-25-2014 2-20 PM)
+WSUS server: HTTP://WIN-JBMLDP185VB.PT.TENABLESECURITY.COM:8530
+Scan date: 8/25/2014 2:20 PM
+Scanned with MBSA version: 2.3.2208.0
+Catalog synchronization date: 2014-08-21T19:41:25Z
+Security update catalog: Microsoft Update (offline), Windows Server Update Services
+
+
+  Security Updates Scan Results
+	
+ 	   Issue:  Developer Tools, Runtimes, and Redistributables Security Updates
+	   Score:  Not approved
+	   Result: 1 security updates are missing and not approved.
+
+		Security Updates			
+		
+			| MS11-025 | Not Approved | Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243) | Important | 
+
+		Current Update Compliance
+		
+			| MS11-025 | Installed | Security Update for Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package (KB2538242) | Important | 
+
+ 	   Issue:  SQL Server Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| MS06-061 | Installed | MSXML 6.0 RTM Security Update  (925673) | Critical | 
+
+ 	   Issue:  Silverlight Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| MS14-014 | Installed | Security Update for Microsoft Silverlight (KB2932677) | Important | 
+
+ 	   Issue:  Windows Security Updates
+	   Score:  Not approved
+	   Result: 3 security updates are missing and not approved.
+
+		Update Rollups and Service Packs
+		
+			| 976002 | Not Approved | Microsoft Browser Choice Screen Update for EEA Users of Windows 8 (KB976002) |  | 
+			| 890830 | Not Approved | Windows Malicious Software Removal Tool for Windows 8 and Windows 8.1 - August 2014 (KB890830) |  | 
+			| 2981580 | Not Approved | Update for Windows 8 (KB2981580) |  | 
+
+		Current Update Compliance
+		
+			| MS13-052 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 (KB2840633) | Important | 
+			| MS14-047 | Installed | Security Update for Windows 8 (KB2978668) | Important | 
+			| MS13-050 | Installed | Security Update for Windows 8 (KB2839894) | Important | 
+			| MS14-045 | Installed | Security Update for Windows 8 (KB2976897) | Important | 
+			| MS13-027 | Installed | Security Update for Windows 8 (KB2807986) | Important | 
+			| MS13-004 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 x86 (KB2742616) | Important | 
+			| MS13-054 | Installed | Security Update for Windows 8 (KB2835361) | Critical | 
+			| MS14-027 | Installed | Security Update for Windows 8 (KB2926765) | Important | 
+			| MS13-039 | Installed | Security Update for Windows 8 (KB2829254) | Important | 
+			| MS13-090 | Installed | Cumulative Security Update for ActiveX Killbits for Windows 8 (KB2900986) | Critical | 
+			| MS13-002 | Installed | Security Update for Windows 8 (KB2757638) | Critical | 
+			| MS13-081 | Installed | Security Update for Windows 8 (KB2862335) | Important | 
+			| MS14-046 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 (KB2966827) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 8 (KB2868038) | Important | 
+			| MS13-082 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 (KB2861194) | Critical | 
+			| MS14-046 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 (KB2966825) | Important | 
+			| MS13-099 | Installed | Security Update for Windows 8 (KB2892074) | Critical | 
+			| MS13-082 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 x86 (KB2861702) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 8 (KB2862330) | Important | 
+			| MS13-052 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 (KB2840632) | Important | 
+			| 2862973 | Installed | Security Update for Windows 8 (KB2862973) |  | 
+			| MS14-030 | Installed | Security Update for Windows 8 (KB2965788) | Important | 
+			| MS14-040 | Installed | Security Update for Windows 8 (KB2961072) | Important | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 4.5 and 4.5.1 on Windows 8 (KB2931367) | Important | 
+			| MS13-004 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 x86 (KB2742614) | Important | 
+			| 2917500 | Installed | Security Update for Windows 8, 8.1 and Windows Server 2012, 2012 R2 (KB2917500) |  | 
+			| 890830 | Installed | Windows Malicious Software Removal Tool for Windows 8 and Windows 8.1 - July 2014 (KB890830) |  | 
+			| MS13-052 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 x86 (KB2832418) | Critical | 
+			| MS12-074 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 (KB2737084) | Important | 
+			| MS14-009 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 (KB2901119) | Important | 
+			| MS13-098 | Installed | Security Update for Windows 8 (KB2893294) | Critical | 
+			| MS14-031 | Installed | Security Update for Windows 8 (KB2957189) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 8 (KB2847311) | Critical | 
+			| MS14-039 | Installed | Security Update for Windows 8 (KB2973201) | Important | 
+			| 2862152 | Installed | Security Update for Windows 8 (KB2862152) |  | 
+			| MS14-051 | Installed | Cumulative Security Update for Internet Explorer 10 for Windows 8 (KB2976627) | Critical | 
+			| MS13-006 | Installed | Security Update for Windows 8 (KB2785220) | Important | 
+			| 2973351 | Installed | Security Update for Windows 8 (KB2973351) |  | 
+			| MS12-074 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 x86 (KB2729462) | Critical | 
+			| MS14-007 | Installed | Security Update for Windows 8 (KB2912390) | Critical | 
+			| MS14-033 | Installed | Security Update for Windows 8 (KB2939576) | Important | 
+			| MS13-082 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 (KB2861704) | Important | 
+			| 2904266 | Installed | Update for Windows 8 (KB2904266) |  | 
+			| MS12-082 | Installed | Security Update for Windows 8 (KB2770660) | Important | 
+			| 2813430 | Installed | Security Update for Windows 8 (KB2813430) |  | 
+			| 2862966 | Installed | Security Update for Windows 8 (KB2862966) |  | 
+			| MS13-101 | Installed | Security Update for Windows 8 (KB2887069) | Important | 
+			| MS14-011 | Installed | Security Update for Windows 8 (KB2909210) | Critical | 
+			| MS13-081 | Installed | Security Update for Windows 8 (KB2884256) | Important | 
+			| MS13-083 | Installed | Security Update for Windows 8 (KB2864058) |  | 
+			| 2982794 | Installed | Security Update for Internet Explorer Flash Player for Windows 8 (KB2982794) |  | 
+			| MS13-057 | Installed | Security Update for Windows 8 (KB2803821) | Critical | 
+			| MS14-009 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 (KB2898865) | Important | 
+			| MS12-072 | Installed | Security Update for Windows 8 (KB2727528) | Critical | 
+			| MS14-038 | Installed | Security Update for Windows 8 (KB2971850) | Critical | 
+			| 2920189 | Installed | Security Update for Windows 8 (KB2920189) |  | 
+			| MS14-041 | Installed | Security Update for Windows 8 (KB2972280) | Important | 
+			| MS13-095 | Installed | Security Update for Windows 8 (KB2868626) | Important | 
+			| 2871997 | Installed | Security Update for Windows 8 (KB2871997) |  | 
+			| MS13-081 | Installed | Security Update for Windows 8 (KB2863725) | Important | 
+			| MS13-007 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 (KB2736693) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 8 (KB2864202) | Important | 
+			| MS14-049 | Installed | Security Update for Windows 8 (KB2918614) | Important | 
+			| MS14-036 | Installed | Security Update for Windows 8 (KB2964736) | Critical | 
+			| 2939153 | Installed | Update for Windows 8 (KB2939153) |  | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 (KB2931357) | Important | 
+
+
+  Operating System Scan Results 
+	
+    Administrative Vulnerabilities
+		
+	   Issue:  Local Account Password Test
+	   Score:  Check passed
+	   Result: Some user accounts (1 of 3) have blank or simple passwords, or could not be analyzed.
+	   Detail:
+			| User | Weak Password | Locked Out | Disabled | 
+			| Guest | Weak | - | Disabled | 
+			| Administrator | - | - | - | 
+			| admin | - | - | - | 
+
+	   Issue:  File System
+	   Score:  Check passed
+	   Result: All hard drives (1) are using the NTFS file system.
+	   Detail:
+			| Drive Letter | File System | 
+			| C: | NTFS | 
+
+	   Issue:  Password Expiration
+	   Score:  Check failed (non-critical)
+	   Result: All user accounts (3) have non-expiring passwords.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| Guest | 
+			| admin | 
+
+	   Issue:  Guest Account
+	   Score:  Check passed
+	   Result: The Guest account is disabled on this computer.
+
+	   Issue:  Autologon
+	   Score:  Check passed
+	   Result: Autologon is not configured on this computer.
+
+	   Issue:  Restrict Anonymous
+	   Score:  Check passed
+	   Result: Computer is properly restricting anonymous access.
+
+	   Issue:  Administrators
+	   Score:  Check failed (non-critical)
+	   Result: More than 2 Administrators were found on this computer.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| PT\WIN-JBMLDP185VB$ | 
+			| admin | 
+
+	   Issue:  Windows Firewall
+	   Score:  Best practice
+	   Result: This check was skipped because it cannot be done remotely.
+
+	   Issue:  Automatic Updates
+	   Score:  Check failed (non-critical)
+	   Result: Updates are not automatically downloaded or installed on this computer.
+
+	   Issue:  Incomplete Updates
+	   Score:  Best practice
+	   Result: No incomplete software update installations were found.
+
+	Additional System Information
+		
+	   Issue:  Windows Version
+	   Score:  Best practice
+	   Result: Computer is running Microsoft Windows 8.
+
+	   Issue:  Auditing
+	   Score:  Best practice
+	   Result: Neither Logon Success nor Logon Failure auditing are enabled. Enable auditing and turn on auditing for specific events such as logon and logoff. Be sure to monitor your event log to watch for unauthorized access.
+
+	   Issue:  Shares
+	   Score:  Best practice
+	   Result: 2 share(s) are present on your computer. 
+	   Detail:
+			| Share | Directory | Share ACL | Directory ACL | 
+			| ADMIN$ | C:\Windows | Admin Share | NT SERVICE\TrustedInstaller -  F, NT AUTHORITY\SYSTEM -  RWXD, BUILTIN\Administrators -  RWXD, BUILTIN\Users -  RX, APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES -  RX | 
+			| C$ | C:\ | Admin Share | BUILTIN\Administrators -  F, NT AUTHORITY\SYSTEM -  F, BUILTIN\Users -  RX, NT AUTHORITY\Authenticated Users -  D | 
+
+	   Issue:  Services
+	   Score:  Best practice
+	   Result: No potentially unnecessary services were found.
+
+
+  Internet Information Services (IIS) Scan Results
+	IIS is not running on this computer.
+
+  SQL Server Scan Results
+	SQL Server and/or MSDE is not installed on this computer.
+
+  Desktop Application Scan Results
+	
+	Administrative Vulnerabilities
+		
+	   Issue:  IE Zones
+	   Score:  Check passed
+	   Result: Internet Explorer zones have secure settings for all users.
+
+	   Issue:  Macro Security
+	   Score:  Check not performed
+	   Result: No supported Microsoft Office products are installed.
+
+
+Security assessment: Potential Risk
+Computer name: PT\PT1WIN864BIT
+IP address: 172.26.25.249
+Security report name: PT - PT1WIN864BIT (8-25-2014 2-21 PM)
+WSUS server: HTTP://WIN-JBMLDP185VB.PT.TENABLESECURITY.COM:8530
+Scan date: 8/25/2014 2:21 PM
+Scanned with MBSA version: 2.3.2208.0
+Catalog synchronization date: 2014-08-21T19:41:25Z
+Security update catalog: Microsoft Update (offline), Windows Server Update Services
+
+
+  Security Updates Scan Results
+	
+ 	   Issue:  Developer Tools, Runtimes, and Redistributables Security Updates
+	   Score:  Not approved
+	   Result: 1 security updates are missing and not approved.
+
+		Security Updates			
+		
+			| MS11-025 | Not Approved | Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243) | Important | 
+
+		Current Update Compliance
+		
+			| MS11-025 | Installed | Security Update for Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package (KB2538242) | Important | 
+
+ 	   Issue:  SQL Server Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| MS06-061 | Installed | MSXML 6.0 RTM Security Update  (925673) | Critical | 
+
+ 	   Issue:  Silverlight Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| MS14-014 | Installed | Security Update for Microsoft Silverlight (KB2932677) | Important | 
+
+ 	   Issue:  Windows Security Updates
+	   Score:  Not approved
+	   Result: 3 security updates are missing and not approved.
+
+		Update Rollups and Service Packs
+		
+			| 976002 | Not Approved | Microsoft Browser Choice Screen Update for EEA Users of Windows 8 for x64-based Systems (KB976002) |  | 
+			| 890830 | Not Approved | Windows Malicious Software Removal Tool for Windows 8, 8.1 and Windows Server 2012, 2012 R2 x64 Edition - August 2014 (KB890830) |  | 
+			| 2981580 | Not Approved | Update for Windows 8 for x64-based Systems (KB2981580) |  | 
+
+		Current Update Compliance
+		
+			| 2967916 | Installed | Update for Windows 8 for x64-based Systems (KB2967916) |  | 
+			| MS14-046 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2966827) | Important | 
+			| 2904266 | Installed | Update for Windows 8 for x64-based Systems (KB2904266) |  | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2931357) | Important | 
+			| MS14-033 | Installed | Security Update for Windows 8 for x64-based Systems (KB2939576) | Important | 
+			| MS13-002 | Installed | Security Update for Windows 8 for x64-based Systems (KB2757638) | Critical | 
+			| MS13-101 | Installed | Security Update for Windows 8 for x64-based Systems (KB2887069) | Important | 
+			| MS14-047 | Installed | Security Update for Windows 8 for x64-based Systems (KB2978668) | Important | 
+			| MS14-031 | Installed | Security Update for Windows 8 for x64-based Systems (KB2957189) | Important | 
+			| MS14-049 | Installed | Security Update for Windows 8 for x64-based Systems (KB2918614) | Important | 
+			| MS14-041 | Installed | Security Update for Windows 8 for x64-based Systems (KB2972280) | Important | 
+			| MS14-009 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2898865) | Important | 
+			| MS14-040 | Installed | Security Update for Windows 8 for x64-based Systems (KB2961072) | Important | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 4.5 and 4.5.1 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2931367) | Important | 
+			| MS13-039 | Installed | Security Update for Windows 8 for x64-based Systems (KB2829254) | Important | 
+			| MS14-007 | Installed | Security Update for Windows 8 for x64-based Systems (KB2912390) | Critical | 
+			| MS12-082 | Installed | Security Update for Windows 8 for x64-based Systems (KB2770660) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 8 for x64-based Systems (KB2863725) | Important | 
+			| 2862966 | Installed | Security Update for Windows 8 for x64-based Systems (KB2862966) |  | 
+			| MS13-099 | Installed | Security Update for Windows 8 for x64-based Systems (KB2892074) | Critical | 
+			| MS13-082 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2861194) | Critical | 
+			| MS13-007 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2736693) | Important | 
+			| MS13-057 | Installed | Security Update for Windows 8 for x64-based Systems (KB2803821) | Critical | 
+			| MS13-050 | Installed | Security Update for Windows 8 for x64-based Systems (KB2839894) | Important | 
+			| MS13-027 | Installed | Security Update for Windows 8 for x64-based Systems (KB2807986) | Important | 
+			| MS12-074 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2729462) | Critical | 
+			| MS13-081 | Installed | Security Update for Windows 8 for x64-based Systems (KB2862330) | Important | 
+			| 2917500 | Installed | Security Update for Windows 8, 8.1 and Windows Server 2012, 2012 R2 (KB2917500) |  | 
+			| 2871997 | Installed | Security Update for Windows 8 for x64-based Systems (KB2871997) |  | 
+			| MS13-054 | Installed | Security Update for Windows 8 for x64-based Systems (KB2835361) | Critical | 
+			| MS13-081 | Installed | Security Update for Windows 8 for x64-based Systems (KB2847311) | Critical | 
+			| MS12-074 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2737084) | Important | 
+			| 2862973 | Installed | Security Update for Windows 8 for x64-based Systems (KB2862973) |  | 
+			| MS14-046 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2966825) | Important | 
+			| MS13-090 | Installed | Cumulative Security Update for ActiveX Killbits for Windows 8 for x64-based Systems (KB2900986) | Critical | 
+			| 2813430 | Installed | Security Update for Windows 8 for x64-based Systems (KB2813430) |  | 
+			| MS13-004 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2742616) | Important | 
+			| MS14-038 | Installed | Security Update for Windows 8 for x64-based Systems (KB2971850) | Critical | 
+			| 2920189 | Installed | Security Update for Windows 8 for x64-based Systems (KB2920189) |  | 
+			| MS13-095 | Installed | Security Update for Windows 8 for x64-based Systems (KB2868626) | Important | 
+			| MS13-004 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 and Windows Server 2012 for x64 (KB2742614) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 8 for x64-based Systems (KB2868038) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 8 for x64-based Systems (KB2862335) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 8 for x64-based Systems (KB2864202) | Important | 
+			| MS13-052 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2832418) | Critical | 
+			| MS13-052 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2840633) | Important | 
+			| 890830 | Installed | Windows Malicious Software Removal Tool for Windows 8, 8.1 and Windows Server 2012, 2012 R2 x64 Edition - July 2014 (KB890830) |  | 
+			| MS14-011 | Installed | Security Update for Windows 8 for x64-based Systems (KB2909210) | Critical | 
+			| 2939153 | Installed | Update for Windows 8 for x64-based Systems (KB2939153) |  | 
+			| MS13-082 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2861702) | Important | 
+			| 2973351 | Installed | Security Update for Windows 8 for x64-based Systems (KB2973351) |  | 
+			| MS14-027 | Installed | Security Update for Windows 8 for x64-based Systems (KB2926765) | Important | 
+			| MS14-039 | Installed | Security Update for Windows 8 for x64-based Systems (KB2973201) | Important | 
+			| MS14-009 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2901119) | Important | 
+			| MS13-083 | Installed | Security Update for Windows 8 for x64-based Systems (KB2864058) | Critical | 
+			| MS13-098 | Installed | Security Update for Windows 8 for x64-based Systems (KB2893294) | Critical | 
+			| MS13-006 | Installed | Security Update for Windows 8 for x64-based Systems (KB2785220) | Important | 
+			| MS14-030 | Installed | Security Update for Windows 8 for x64-based Systems (KB2965788) | Important | 
+			| MS14-051 | Installed | Cumulative Security Update for Internet Explorer 10 for Windows 8 for x64-based Systems (KB2976627) | Critical | 
+			| 2862152 | Installed | Security Update for Windows 8 for x64-based Systems (KB2862152) |  | 
+			| MS14-045 | Installed | Security Update for Windows 8 for x64-based Systems (KB2976897) | Important | 
+			| MS13-081 | Installed | Security Update for Windows 8 for x64-based Systems (KB2884256) | Important | 
+			| MS12-072 | Installed | Security Update for Windows 8 for x64-based Systems (KB2727528) | Critical | 
+			| MS13-052 | Installed | Security Update for Microsoft .NET Framework 4.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2840632) | Important | 
+			| 2982794 | Installed | Security Update for Internet Explorer Flash Player for Windows 8 for x64-based Systems (KB2982794) |  | 
+			| MS14-036 | Installed | Security Update for Windows 8 for x64-based Systems (KB2964736) | Critical | 
+			| MS13-082 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2861704) | Important | 
+
+
+  Operating System Scan Results 
+	
+    Administrative Vulnerabilities
+		
+	   Issue:  Local Account Password Test
+	   Score:  Check passed
+	   Result: Some user accounts (1 of 3) have blank or simple passwords, or could not be analyzed.
+	   Detail:
+			| User | Weak Password | Locked Out | Disabled | 
+			| Guest | Weak | - | Disabled | 
+			| Administrator | - | - | - | 
+			| admin | - | - | - | 
+
+	   Issue:  File System
+	   Score:  Check passed
+	   Result: All hard drives (1) are using the NTFS file system.
+	   Detail:
+			| Drive Letter | File System | 
+			| C: | NTFS | 
+
+	   Issue:  Password Expiration
+	   Score:  Check failed (non-critical)
+	   Result: All user accounts (3) have non-expiring passwords.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| Guest | 
+			| admin | 
+
+	   Issue:  Guest Account
+	   Score:  Check passed
+	   Result: The Guest account is disabled on this computer.
+
+	   Issue:  Autologon
+	   Score:  Check passed
+	   Result: Autologon is not configured on this computer.
+
+	   Issue:  Restrict Anonymous
+	   Score:  Check passed
+	   Result: Computer is properly restricting anonymous access.
+
+	   Issue:  Administrators
+	   Score:  Check failed (non-critical)
+	   Result: More than 2 Administrators were found on this computer.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| PT\WIN-JBMLDP185VB$ | 
+			| admin | 
+
+	   Issue:  Windows Firewall
+	   Score:  Best practice
+	   Result: This check was skipped because it cannot be done remotely.
+
+	   Issue:  Automatic Updates
+	   Score:  Check failed (non-critical)
+	   Result: Updates are not automatically downloaded or installed on this computer.
+
+	   Issue:  Incomplete Updates
+	   Score:  Best practice
+	   Result: No incomplete software update installations were found.
+
+	Additional System Information
+		
+	   Issue:  Windows Version
+	   Score:  Best practice
+	   Result: Computer is running Microsoft Windows 8.
+
+	   Issue:  Auditing
+	   Score:  Best practice
+	   Result: Neither Logon Success nor Logon Failure auditing are enabled. Enable auditing and turn on auditing for specific events such as logon and logoff. Be sure to monitor your event log to watch for unauthorized access.
+
+	   Issue:  Shares
+	   Score:  Best practice
+	   Result: 2 share(s) are present on your computer. 
+	   Detail:
+			| Share | Directory | Share ACL | Directory ACL | 
+			| ADMIN$ | C:\Windows | Admin Share | NT SERVICE\TrustedInstaller -  F, NT AUTHORITY\SYSTEM -  RWXD, BUILTIN\Administrators -  RWXD, BUILTIN\Users -  RX, APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES -  RX | 
+			| C$ | C:\ | Admin Share | BUILTIN\Administrators -  F, NT AUTHORITY\SYSTEM -  F, BUILTIN\Users -  RX, NT AUTHORITY\Authenticated Users -  D | 
+
+	   Issue:  Services
+	   Score:  Best practice
+	   Result: No potentially unnecessary services were found.
+
+
+  Internet Information Services (IIS) Scan Results
+	IIS is not running on this computer.
+
+  SQL Server Scan Results
+	SQL Server and/or MSDE is not installed on this computer.
+
+  Desktop Application Scan Results
+	
+	Administrative Vulnerabilities
+		
+	   Issue:  IE Zones
+	   Score:  Check passed
+	   Result: Internet Explorer zones have secure settings for all users.
+
+	   Issue:  Macro Security
+	   Score:  Check not performed
+	   Result: No supported Microsoft Office products are installed.
+
+
+Security assessment: Potential Risk
+Computer name: PT\PT1WIN8132BIT
+IP address: 172.26.24.29
+Security report name: PT - PT1WIN8132BIT (8-25-2014 2-22 PM)
+WSUS server: HTTP://WIN-JBMLDP185VB.PT.TENABLESECURITY.COM:8530
+Scan date: 8/25/2014 2:22 PM
+Scanned with MBSA version: 2.3.2208.0
+Catalog synchronization date: 2014-08-21T19:41:25Z
+Security update catalog: Microsoft Update (offline), Windows Server Update Services
+
+
+  Security Updates Scan Results
+	
+ 	   Issue:  Developer Tools, Runtimes, and Redistributables Security Updates
+	   Score:  Not approved
+	   Result: 1 security updates are missing and not approved.
+
+		Security Updates			
+		
+			| MS11-025 | Not Approved | Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243) | Important | 
+
+		Current Update Compliance
+		
+			| MS11-025 | Installed | Security Update for Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package (KB2538242) | Important | 
+
+ 	   Issue:  SQL Server Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| MS06-061 | Installed | MSXML 6.0 RTM Security Update  (925673) | Critical | 
+
+ 	   Issue:  Silverlight Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| MS14-014 | Installed | Security Update for Microsoft Silverlight (KB2932677) | Important | 
+
+ 	   Issue:  Windows Security Updates
+	   Score:  Not approved
+	   Result: 3 security updates are missing and not approved.
+
+		Update Rollups and Service Packs
+		
+			| 976002 | Not Approved | Microsoft Browser Choice Screen Update for EEA Users of Windows 8.1 (KB976002) |  | 
+			| 890830 | Not Approved | Windows Malicious Software Removal Tool for Windows 8 and Windows 8.1 - August 2014 (KB890830) |  | 
+			| 2981580 | Not Approved | Update for Windows 8.1 (KB2981580) |  | 
+
+		Current Update Compliance
+		
+			| MS14-049 | Installed | Security Update for Windows 8.1 (KB2918614) | Important | 
+			| 2920189 | Installed | Security Update for Windows 8.1 (KB2920189) |  | 
+			| MS14-031 | Installed | Security Update for Windows 8.1 (KB2957189) | Important | 
+			| MS14-038 | Installed | Security Update for Windows 8.1 (KB2971850) | Critical | 
+			| MS14-051 | Installed | Cumulative Security Update for Internet Explorer 11 for Windows 8.1 (KB2976627) | Critical | 
+			| MS14-033 | Installed | Security Update for Windows 8.1 (KB2939576) | Important | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 (KB2931358) | Important | 
+			| MS14-039 | Installed | Security Update for Windows 8.1 (KB2973201) | Important | 
+			| 2982794 | Installed | Security Update for Internet Explorer Flash Player for Windows 8.1 (KB2982794) |  | 
+			| MS14-040 | Installed | Security Update for Windows 8.1 (KB2961072) | Important | 
+			| 2917500 | Installed | Security Update for Windows 8, 8.1 and Windows Server 2012, 2012 R2 (KB2917500) |  | 
+			| 890830 | Installed | Windows Malicious Software Removal Tool for Windows 8 and Windows 8.1 - July 2014 (KB890830) |  | 
+			| 2962140 | Installed | Security Update for Windows 8.1 (KB2962140) |  | 
+			| MS14-045 | Installed | Security Update for Windows 8.1 (KB2976897) | Important | 
+			| MS14-041 | Installed | Security Update for Windows 8.1 (KB2972280) | Important | 
+			| MS14-018 | Installed | Windows 8.1 Update (KB2919355) | Critical | 
+			| MS14-036 | Installed | Security Update for Windows 8.1 (KB2964736) | Critical | 
+			| MS14-046 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 (KB2966826) | Important | 
+			| MS14-036 | Installed | Security Update for Windows 8.1 (KB2964718) | Critical | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 4.5.1 on Windows 8.1 (KB2931366) | Important | 
+			| 2939153 | Installed | Update for Windows 8.1 (KB2939153) |  | 
+			| 2973351 | Installed | Security Update for Windows 8.1 (KB2973351) |  | 
+			| MS14-047 | Installed | Security Update for Windows 8.1 (KB2978668) | Important | 
+			| MS14-046 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 (KB2966828) | Important | 
+			| MS14-030 | Installed | Security Update for Windows 8.1 (KB2965788) | Important | 
+
+
+  Operating System Scan Results 
+	
+    Administrative Vulnerabilities
+		
+	   Issue:  Local Account Password Test
+	   Score:  Check passed
+	   Result: Some user accounts (1 of 3) have blank or simple passwords, or could not be analyzed.
+	   Detail:
+			| User | Weak Password | Locked Out | Disabled | 
+			| Guest | Weak | - | Disabled | 
+			| Administrator | - | - | - | 
+			| admin | - | - | - | 
+
+	   Issue:  File System
+	   Score:  Check passed
+	   Result: All hard drives (1) are using the NTFS file system.
+	   Detail:
+			| Drive Letter | File System | 
+			| C: | NTFS | 
+
+	   Issue:  Password Expiration
+	   Score:  Check failed (non-critical)
+	   Result: All user accounts (3) have non-expiring passwords.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| Guest | 
+			| admin | 
+
+	   Issue:  Guest Account
+	   Score:  Check passed
+	   Result: The Guest account is disabled on this computer.
+
+	   Issue:  Autologon
+	   Score:  Check passed
+	   Result: Autologon is not configured on this computer.
+
+	   Issue:  Restrict Anonymous
+	   Score:  Check passed
+	   Result: Computer is properly restricting anonymous access.
+
+	   Issue:  Administrators
+	   Score:  Check failed (non-critical)
+	   Result: More than 2 Administrators were found on this computer.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| PT\WIN-JBMLDP185VB$ | 
+			| admin | 
+
+	   Issue:  Windows Firewall
+	   Score:  Best practice
+	   Result: This check was skipped because it cannot be done remotely.
+
+	   Issue:  Automatic Updates
+	   Score:  Check failed (non-critical)
+	   Result: Updates are not automatically downloaded or installed on this computer.
+
+	   Issue:  Incomplete Updates
+	   Score:  Best practice
+	   Result: No incomplete software update installations were found.
+
+	Additional System Information
+		
+	   Issue:  Windows Version
+	   Score:  Best practice
+	   Result: Computer is running Microsoft Windows 8.1.
+
+	   Issue:  Auditing
+	   Score:  Best practice
+	   Result: Neither Logon Success nor Logon Failure auditing are enabled. Enable auditing and turn on auditing for specific events such as logon and logoff. Be sure to monitor your event log to watch for unauthorized access.
+
+	   Issue:  Shares
+	   Score:  Best practice
+	   Result: 2 share(s) are present on your computer. 
+	   Detail:
+			| Share | Directory | Share ACL | Directory ACL | 
+			| ADMIN$ | C:\Windows | Admin Share | NT SERVICE\TrustedInstaller -  F, NT AUTHORITY\SYSTEM -  RWXD, BUILTIN\Administrators -  RWXD, BUILTIN\Users -  RX, APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES -  RX | 
+			| C$ | C:\ | Admin Share | BUILTIN\Administrators -  F, NT AUTHORITY\SYSTEM -  F, BUILTIN\Users -  RX, NT AUTHORITY\Authenticated Users -  D | 
+
+	   Issue:  Services
+	   Score:  Best practice
+	   Result: No potentially unnecessary services were found.
+
+
+  Internet Information Services (IIS) Scan Results
+	IIS is not running on this computer.
+
+  SQL Server Scan Results
+	SQL Server and/or MSDE is not installed on this computer.
+
+  Desktop Application Scan Results
+	
+	Administrative Vulnerabilities
+		
+	   Issue:  IE Zones
+	   Score:  Check passed
+	   Result: Internet Explorer zones have secure settings for all users.
+
+	   Issue:  Macro Security
+	   Score:  Check not performed
+	   Result: No supported Microsoft Office products are installed.
+
+
+Security assessment: Potential Risk
+Computer name: PT\PT1WIN8164BIT
+IP address: 172.26.25.240
+Security report name: PT - PT1WIN8164BIT (8-25-2014 2-23 PM)
+WSUS server: HTTP://WIN-JBMLDP185VB.PT.TENABLESECURITY.COM:8530
+Scan date: 8/25/2014 2:23 PM
+Scanned with MBSA version: 2.3.2208.0
+Catalog synchronization date: 2014-08-21T19:41:25Z
+Security update catalog: Microsoft Update (offline), Windows Server Update Services
+
+
+  Security Updates Scan Results
+	
+ 	   Issue:  Developer Tools, Runtimes, and Redistributables Security Updates
+	   Score:  Not approved
+	   Result: 1 security updates are missing and not approved.
+
+		Security Updates			
+		
+			| MS11-025 | Not Approved | Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243) | Important | 
+
+		Current Update Compliance
+		
+			| MS11-025 | Installed | Security Update for Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package (KB2538242) | Important | 
+
+ 	   Issue:  SQL Server Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| MS06-061 | Installed | MSXML 6.0 RTM Security Update  (925673) | Critical | 
+
+ 	   Issue:  Silverlight Security Updates
+	   Score:  Check passed
+	   Result: No security updates are missing.
+
+		Current Update Compliance
+		
+			| MS14-014 | Installed | Security Update for Microsoft Silverlight (KB2932677) | Important | 
+
+ 	   Issue:  Windows Security Updates
+	   Score:  Not approved
+	   Result: 3 security updates are missing and not approved.
+
+		Update Rollups and Service Packs
+		
+			| 2981580 | Not Approved | Update for Windows 8.1 for x64-based Systems (KB2981580) |  | 
+			| 890830 | Not Approved | Windows Malicious Software Removal Tool for Windows 8, 8.1 and Windows Server 2012, 2012 R2 x64 Edition - August 2014 (KB890830) |  | 
+			| 976002 | Not Approved | Microsoft Browser Choice Screen Update for EEA Users of Windows 8.1 for x64-based Systems (KB976002) |  | 
+
+		Current Update Compliance
+		
+			| MS14-049 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2918614) | Important | 
+			| MS14-041 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2972280) | Important | 
+			| MS14-038 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2971850) | Critical | 
+			| 2962140 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2962140) |  | 
+			| MS14-036 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2964718) | Critical | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2931358) | Important | 
+			| 2917500 | Installed | Security Update for Windows 8, 8.1 and Windows Server 2012, 2012 R2 (KB2917500) |  | 
+			| 2982794 | Installed | Security Update for Internet Explorer Flash Player for Windows 8.1 for x64-based Systems (KB2982794) |  | 
+			| MS14-030 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2965788) | Important | 
+			| MS14-046 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2966828) | Important | 
+			| MS14-036 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2964736) | Critical | 
+			| 2973351 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2973351) |  | 
+			| MS14-046 | Installed | Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2966826) | Important | 
+			| MS14-031 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2957189) | Important | 
+			| MS14-026 | Installed | Security Update for Microsoft .NET Framework 4.5.1 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2931366) | Important | 
+			| MS14-047 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2978668) | Important | 
+			| 890830 | Installed | Windows Malicious Software Removal Tool for Windows 8, 8.1 and Windows Server 2012, 2012 R2 x64 Edition - July 2014 (KB890830) |  | 
+			| MS14-045 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2976897) | Important | 
+			| MS14-051 | Installed | Cumulative Security Update for Internet Explorer 11 for Windows 8.1 for x64-based Systems (KB2976627) | Critical | 
+			| 2939153 | Installed | Update for Windows 8.1 for x64-based Systems (KB2939153) |  | 
+			| MS14-033 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2939576) | Important | 
+			| MS14-039 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2973201) | Important | 
+			| 2920189 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2920189) |  | 
+			| MS14-018 | Installed | Windows 8.1 Update for x64-based Systems (KB2919355) | Critical | 
+			| MS14-040 | Installed | Security Update for Windows 8.1 for x64-based Systems (KB2961072) | Important | 
+
+
+  Operating System Scan Results 
+	
+    Administrative Vulnerabilities
+		
+	   Issue:  Local Account Password Test
+	   Score:  Check passed
+	   Result: Some user accounts (1 of 3) have blank or simple passwords, or could not be analyzed.
+	   Detail:
+			| User | Weak Password | Locked Out | Disabled | 
+			| Guest | Weak | - | Disabled | 
+			| Administrator | - | - | - | 
+			| admin | - | - | - | 
+
+	   Issue:  File System
+	   Score:  Check passed
+	   Result: All hard drives (1) are using the NTFS file system.
+	   Detail:
+			| Drive Letter | File System | 
+			| C: | NTFS | 
+
+	   Issue:  Password Expiration
+	   Score:  Check failed (non-critical)
+	   Result: All user accounts (3) have non-expiring passwords.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| Guest | 
+			| admin | 
+
+	   Issue:  Guest Account
+	   Score:  Check passed
+	   Result: The Guest account is disabled on this computer.
+
+	   Issue:  Autologon
+	   Score:  Check passed
+	   Result: Autologon is not configured on this computer.
+
+	   Issue:  Restrict Anonymous
+	   Score:  Check passed
+	   Result: Computer is properly restricting anonymous access.
+
+	   Issue:  Administrators
+	   Score:  Check failed (non-critical)
+	   Result: More than 2 Administrators were found on this computer.
+	   Detail:
+			| User | 
+			| Administrator | 
+			| PT\WIN-JBMLDP185VB$ | 
+			| admin | 
+
+	   Issue:  Windows Firewall
+	   Score:  Best practice
+	   Result: This check was skipped because it cannot be done remotely.
+
+	   Issue:  Automatic Updates
+	   Score:  Check failed (non-critical)
+	   Result: Updates are not automatically downloaded or installed on this computer.
+
+	   Issue:  Incomplete Updates
+	   Score:  Best practice
+	   Result: No incomplete software update installations were found.
+
+	Additional System Information
+		
+	   Issue:  Windows Version
+	   Score:  Best practice
+	   Result: Computer is running Microsoft Windows 8.1.
+
+	   Issue:  Auditing
+	   Score:  Best practice
+	   Result: Neither Logon Success nor Logon Failure auditing are enabled. Enable auditing and turn on auditing for specific events such as logon and logoff. Be sure to monitor your event log to watch for unauthorized access.
+
+	   Issue:  Shares
+	   Score:  Best practice
+	   Result: 2 share(s) are present on your computer. 
+	   Detail:
+			| Share | Directory | Share ACL | Directory ACL | 
+			| ADMIN$ | C:\Windows | Admin Share | NT SERVICE\TrustedInstaller -  F, NT AUTHORITY\SYSTEM -  RWXD, BUILTIN\Administrators -  RWXD, BUILTIN\Users -  RX, APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES -  RX | 
+			| C$ | C:\ | Admin Share | BUILTIN\Administrators -  F, NT AUTHORITY\SYSTEM -  F, BUILTIN\Users -  RX, NT AUTHORITY\Authenticated Users -  D | 
+
+	   Issue:  Services
+	   Score:  Best practice
+	   Result: No potentially unnecessary services were found.
+
+
+  Internet Information Services (IIS) Scan Results
+	IIS is not running on this computer.
+
+  SQL Server Scan Results
+	SQL Server and/or MSDE is not installed on this computer.
+
+  Desktop Application Scan Results
+	
+	Administrative Vulnerabilities
+		
+	   Issue:  IE Zones
+	   Score:  Check passed
+	   Result: Internet Explorer zones have secure settings for all users.
+
+	   Issue:  Macro Security
+	   Score:  Check not performed
+	   Result: No supported Microsoft Office products are installed.
+
